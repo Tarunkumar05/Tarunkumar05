@@ -10,6 +10,14 @@ I'm Tarun Kumar, a Frontend Developer and Web Developer passionate about creatin
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love exploring new coding challenges and contributing to open source.
 
+#### Skills:
+
+Languages:- HTML, CSS, JavaScript, Python
+
+Web Development:- React.js, Django, Bootstrap
+
+Frontend Tools:- VS Code, GitHub
+
 Check out my featured projects below!
 
 
