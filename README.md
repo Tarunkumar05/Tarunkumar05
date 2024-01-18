@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I'm Tarun Kumar, a Frontend Developer and Web Developer passionate about creating user-friendly web experiences.
 
 - 🔭 Currently working on: Feature-rich web applications and improving my React skills.
@@ -11,7 +11,7 @@ I'm Tarun Kumar, a Frontend Developer and Web Developer passionate about creatin
 - ⚡ Fun fact: I love exploring new coding challenges and contributing to open source.
 
 Check out my featured projects below!
--->
+
 
 #### Featured Projects:
 
