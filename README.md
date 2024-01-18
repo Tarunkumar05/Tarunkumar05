@@ -1,16 +1,24 @@
 ### Hi there 👋
 
 <!--
-**Tarunkumar05/Tarunkumar05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tarun Kumar, a Frontend Developer and Web Developer passionate about creating user-friendly web experiences.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: Feature-rich web applications and improving my React skills.
+- 🌱 Currently learning: Advanced React patterns and state management.
+- 💬 Ask me about: Frontend development, web design, or anything coding-related.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarun-kumar-749125214/), [GitHub](https://github.com/Tarunkumar05).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love exploring new coding challenges and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Check out my featured projects below!
 -->
+
+#### Featured Projects:
+
+- 🌐 **Social Media App:** Web development maestro with secure authentication and engaging photo-sharing features. [Explore](https://github.com/Tarunkumar05/social-app/tree/master)
+  
+- 📰 **News Explorer:** Real-time news exploration with dynamic categories and slick pagination controls. [Check it out](https://github.com/Tarunkumar05/News-Explorer-)
+
+- 🚀 **React Todo Manager:** Efficient task management with React magic and seamless data persistence. [Discover more](https://github.com/Tarunkumar05/React-Todo-Manager)
+
+Feel free to explore my projects and connect for exciting collaborations!
