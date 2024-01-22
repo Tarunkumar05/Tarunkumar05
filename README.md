@@ -16,7 +16,7 @@ Languages:- HTML, CSS, JavaScript, Python
 
 Web Development:- React.js, Django, Bootstrap
 
-Frontend Tools:- VS Code, GitHub
+Tools:- VS Code, GitHub
 
 Check out my featured projects below!
 
